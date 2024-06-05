@@ -1,0 +1,4 @@
+1). Jupyter notebook
+2). Machine Learning techniques and algorithms
+3). PyCharm or VSCode
+4). Streamlit framework
